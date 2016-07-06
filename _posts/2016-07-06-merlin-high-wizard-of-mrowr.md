@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-06T05:47:20.582Z'
+datePublished: '2016-07-06T05:47:23.069Z'
 sourcePath: _posts/2016-07-06-merlin-high-wizard-of-mrowr.md
 isBasedOnUrl: 'http://tiny.cc/TBDBusModCan'
 keywords: []
 related: []
 author:
   - name: Anthony Johnson
-dateModified: '2016-07-06T05:47:19.490Z'
+dateModified: '2016-07-06T05:47:22.770Z'
 title: Business Model Design
 app_links: []
 publisher:
@@ -18,7 +18,7 @@ description: >-
   The Business Model Canvas is the primary business ideation method I use with
   my clients. By properly narrating each component of the canvas, business
   owners and entrepreneurs gain a holistic view of their endeavor.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
