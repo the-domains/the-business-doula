@@ -1,11 +1,13 @@
 ---
-datePublished: '2016-07-06T05:02:24.629Z'
+datePublished: '2016-07-06T05:46:45.522Z'
+sourcePath: _posts/2016-07-06-merlin-high-wizard-of-mrowr.md
 isBasedOnUrl: 'http://tiny.cc/TBDBusModCan'
 keywords: []
 related: []
-author: []
-dateModified: '2016-07-06T05:02:03.669Z'
-title: ''
+author:
+  - name: Anthony Johnson
+dateModified: '2016-07-06T05:46:44.209Z'
+title: Business Model Design
 app_links: []
 publisher:
   url: 'https://www.youtube.com/'
@@ -16,8 +18,7 @@ description: >-
   The Business Model Canvas is the primary business ideation method I use with
   my clients. By properly narrating each component of the canvas, business
   owners and entrepreneurs gain a holistic view of their endeavor.
-starred: false
-sourcePath: _posts/2016-07-06-merlin-high-wizard-of-mrowr.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,7 +26,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![With keen intellect, one must evaluate the entire business entity](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed94d6b8-9bd1-4c0d-83f5-dedb3b3ee584.jpg)
+![With keen intellect, one must evaluate the entire business ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69daf7fd-8633-4e8f-8582-fda0f02c5da7.jpg)
 
 The Business Model Canvas is the primary business ideation method I use with my clients. By properly narrating each component of the canvas, business owners and entrepreneurs gain a holistic view of their endeavor.
 
