@@ -10,9 +10,12 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+opengraph:
+  type: ''
 layout_spectrum: 0.6058145561255515
 author:
   name: Anthony Johnson
   url: ''
+  email: anthony@thebusinessdoulallc.com
 name: the business doula
-title: sustainable business soulutions
+title: the business doula - structured for growth
