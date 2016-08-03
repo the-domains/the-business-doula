@@ -1,21 +1,33 @@
-typography_spectrum: 0.7950372707564384
+author:
+  name: Anthony Johnson
+  url: ''
+  email: anthony@thebusinessdoulallc.com
+title: the business doula - structured for growth
+opengraph:
+  type: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3553191
   brandStrength: 0.5338784311898053
-  lightness: 0.9761720784008503
-  saturation: 0.4157340172678232
-  rhythmicContrast: 0.8030839767307043
+  lightness: 0.6340426
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-opengraph:
-  type: ''
-layout_spectrum: 0.6058145561255515
-author:
-  name: Anthony Johnson
-  url: ''
-  email: anthony@thebusinessdoulallc.com
+  rhythmicContrast: 0.8425532
+typography_spectrum: 1
+layout_spectrum: 0.6170213
 name: the business doula
-title: the business doula - structured for growth
